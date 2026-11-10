@@ -1,6 +1,6 @@
 # Walk Notes
 
-Walk Notes is a free iPhone photo journal for details you notice on a walk. Save a photo, write a short note about what made you stop, and optionally give the place a name.
+Walk Notes is an iPhone photo journal for details you notice on a walk. Save a photo, write a short note about what made you stop, and optionally give the place a name.
 
 ## First milestone
 
